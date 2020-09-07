@@ -1,0 +1,60 @@
+body{
+  font-family: 'lato',sans-serif;
+  background-image: url(./legno.jpg);
+  width: 50%;
+  margin:auto;
+}
+.logog{
+  width: 100px;
+  color: white;
+  vertical-align: middle;
+}
+.gmail{
+  display: inline;
+  color: white;
+  font-size: 20px;
+}
+.corpo{
+ width: 100%;
+ margin: 20px;
+}
+.nonlette{
+  color: white;
+  font-size: 30px;
+}
+.mail-grey{
+  color: white;
+  background-color: #beadad;
+  height: 5%;
+  padding-left: 5px;
+  border: 2px solid black;
+}
+.mail-bianca{
+  color: black;
+  background-color: white;
+  height: 5%;
+  padding-left: 5px;
+  border: 2px solid black;
+}
+p{
+  display: inline;
+  color : grey;
+  font-weight: normal;
+}
+footer{
+
+  color: white;
+  text-align: center;
+}
+
+span {
+  color: white;
+  font-size: 30px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: #d87c2e;
+  line-height: 30px;
+  vertical-align: middle;
+  border-radius: 50px;
+}
